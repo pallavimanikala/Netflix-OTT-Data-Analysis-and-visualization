@@ -5,7 +5,7 @@ This project analyzes Netflix’s content catalog to uncover insights related to
 
 The analysis combines **Python-based data processing** with **interactive Power BI dashboards** to simulate a real-world data analytics workflow.
 
----
+
 
 ## Objectives
 - Analyze **content growth trends** over the years  
@@ -14,7 +14,7 @@ The analysis combines **Python-based data processing** with **interactive Power 
 - Examine **country-wise content distribution**  
 - Build an interactive dashboard for dynamic analysis  
 
----
+
 
 ## Tools & Technologies
 - Python (Pandas, NumPy)
@@ -23,14 +23,14 @@ The analysis combines **Python-based data processing** with **interactive Power 
 - Excel
 - Matplotlib & Seaborn (Exploratory Analysis)
 
----
+
 
 ## Dataset
 The Netflix dataset used in this project contains information about movies and TV shows, including release year, genre, country, and content type.
 
 The cleaned dataset used for dashboarding was generated using Python after data cleaning and preprocessing.
 
----
+
 
 ## Data Processing
 - Cleaned and standardized raw Netflix data  
@@ -39,7 +39,7 @@ The cleaned dataset used for dashboarding was generated using Python after data 
 - Prepared analysis-ready data for Power BI  
 - Validated metrics by cross-checking Python and Power BI outputs  
 
----
+
 
 ## Dashboard Features
 ### Key KPIs
@@ -57,7 +57,7 @@ The cleaned dataset used for dashboarding was generated using Python after data 
 - Filters for **Year, Genre, Country, and Content Type**  
 - Dynamic KPI updates based on slicer selection  
 
----
+
 
 ## Key Insights
 - A significant portion of Netflix content is **Non-US**, highlighting a global-first strategy  
@@ -65,7 +65,7 @@ The cleaned dataset used for dashboarding was generated using Python after data 
 - Top genres contribute a large share while maintaining **moderate diversification**  
 - Rapid content growth aligns with Netflix’s international expansion phase  
 
----
+
 
 ## Outcome
 This project demonstrates the ability to:
@@ -74,4 +74,4 @@ This project demonstrates the ability to:
 - Build accurate, interactive dashboards  
 - Translate analytical results into meaningful business insights  
 
----
+
